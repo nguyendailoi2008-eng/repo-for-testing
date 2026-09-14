@@ -22,7 +22,6 @@ int main() {
            {
             std::cout << "I hope your day gets better!" << std::endl;
          }
-         std::cout<<"test";
-         std::cout<<"test2";
+        
   return 0;
 }
